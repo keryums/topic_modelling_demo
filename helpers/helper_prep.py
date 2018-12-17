@@ -1,4 +1,3 @@
-### K. Ong | Fall 2018
 ### Helper functions for text preprocessing
 
 import pandas as pd 

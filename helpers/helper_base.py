@@ -1,4 +1,3 @@
-### K Ong | Fall 2018
 ### Helper functions for basic reading and rendering
 
 ### The following function is taken from Jeremy Howard: https://www.linkedin.com/in/howardjeremy/
