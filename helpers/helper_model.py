@@ -1,5 +1,6 @@
-### Helper functions for topic modelling 
 ### K. Ong | Fall 2018
+### Helper functions for topic modelling 
+
 
 import string
 from helper_prep import retokenize
