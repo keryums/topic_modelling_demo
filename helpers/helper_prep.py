@@ -1,5 +1,5 @@
 ### Helper functions for text preprocessing
-### Ker-Yu Ong | Fall 2018
+### K. Ong | Fall 2018
 
 import pandas as pd 
 import numpy as np

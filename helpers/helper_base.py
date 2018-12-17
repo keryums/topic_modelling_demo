@@ -1,5 +1,5 @@
 ### Helper functions for basic reading and rendering
-### Ker-Yu Ong | Fall 2018
+### K Ong | Fall 2018
 
 ### The following function is taken from Jeremy Howard: https://www.linkedin.com/in/howardjeremy/
 ### It allows jupyter to render wide tables showing all columns and a scroll bar
