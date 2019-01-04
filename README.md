@@ -1,5 +1,5 @@
 # Topic Modelling Example
-A sample workflow using LDA, CorEx, Anchors, and Word Embeddings. If you want to get to the heart of the matter, see [topic_model_example](topic_model_example.ipynb), but the devil is certainly in the details. 
+A sample workflow using LDA, CorEx, Anchors, and Word Embeddings. If you want to get to the heart of the matter, see [topic_model_example](topic_model_example.ipynb), but the devil is in the details. 
 
 This repository includes the following files: 
 * [preprocessing_example](preprocessing_example.ipynb): morphological processing and phrase detection via collocations
